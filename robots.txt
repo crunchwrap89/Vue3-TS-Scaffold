@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /*
+Disallow: /mod/
+Disallow: /admin/
+
+Sitemap: https://www.MyNewApp.com/sitemap.xml
+Sitemap: https://MyNewApp.com/sitemap.xml
