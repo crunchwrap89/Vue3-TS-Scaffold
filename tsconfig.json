@@ -13,7 +13,11 @@
     "paths": {
       "@/*": ["./src/*"]
     },
-    "typeRoots": ["./types"]
+    "typeRoots": ["./types"],
+    "lib": [
+      "es2021",
+      "dom"
+  ],
   },
 
   "references": [
