@@ -1,4 +1,4 @@
-# Scaffold Application for Vue3 with Typescript
+# Scaffold Application for Vue3 with Typescript, PostCSS and Vite
 
 This is a scaffold for creating new apps with Vue 3, Typescript, PostCSS and Vite.
 This repo is automatically updated with the newest version of all dependencies via dependabot.
