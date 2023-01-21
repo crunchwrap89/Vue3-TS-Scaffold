@@ -7,7 +7,8 @@ This repo is automatically updated with the newest version of all dependencies v
 If you do not wish to use/install these extensions, you may just remove the extensions.json file from the .vscode folder.
 Then you will not recieve notifications about recommendations.`
 
-
+Find tutorials on fun coding projects at
+[www.marcusn.dev](https://marcusn.dev)
 ## Project Requirements
 
 > - https://nodejs.org/en/download/.
